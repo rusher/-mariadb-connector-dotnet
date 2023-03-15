@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MariadbConnector", "MariadbConnector\MariadbConnector.csproj", "{A88B33FE-8991-4E60-9F32-3CD2BFC96743}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MariadbConnector.Benchmarks", "MariadbConnector.Benchmarks\MariadbConnector.Benchmarks.csproj", "{D34A8A4F-3C81-4FA6-92B9-7284C6EAAC5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MariadbConnector.Test", "MariadbConnector.Test\MariadbConnector.Test.csproj", "{A766B223-A1A3-49DE-8C11-40C0E88DECD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A88B33FE-8991-4E60-9F32-3CD2BFC96743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88B33FE-8991-4E60-9F32-3CD2BFC96743}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88B33FE-8991-4E60-9F32-3CD2BFC96743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88B33FE-8991-4E60-9F32-3CD2BFC96743}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34A8A4F-3C81-4FA6-92B9-7284C6EAAC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34A8A4F-3C81-4FA6-92B9-7284C6EAAC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34A8A4F-3C81-4FA6-92B9-7284C6EAAC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34A8A4F-3C81-4FA6-92B9-7284C6EAAC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A766B223-A1A3-49DE-8C11-40C0E88DECD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A766B223-A1A3-49DE-8C11-40C0E88DECD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A766B223-A1A3-49DE-8C11-40C0E88DECD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A766B223-A1A3-49DE-8C11-40C0E88DECD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
